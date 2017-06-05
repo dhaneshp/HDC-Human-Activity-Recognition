@@ -1,0 +1,5 @@
+This folder contains Person 2 data from CAD-60.
+Joint coordinates are modified:
+    Ji = (Ji - J0)/||J2-J0||
+    where J0 = torso joint
+          J2 = neck joint
